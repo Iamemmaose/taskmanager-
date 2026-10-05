@@ -81,12 +81,6 @@ The application will be available at:
 http://localhost:3000
 ```
 
-## Deployment
-
-The application can be deployed using platforms such as Vercel.
-
-**Live Application:** Add your deployed URL here.
-
 ## Project Purpose
 
 This project was built to strengthen practical frontend development skills, particularly working with Next.js, TypeScript, API integration, asynchronous data fetching, state management, CRUD operations, and responsive UI development.
